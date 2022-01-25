@@ -4,6 +4,18 @@
 
 [1]: https://pypi.org/project/google-cloud-container/#history
 
+## [3.0.0](https://github.com/googleapis/python-container/compare/v2.10.1...v3.0.0) (2022-01-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* revert bad publishing (#184)
+
+### Bug Fixes
+
+* revert bad publishing ([#184](https://github.com/googleapis/python-container/issues/184)) ([cb840d0](https://github.com/googleapis/python-container/commit/cb840d0c776d38788eb7245b4867f60fdf4cf10c))
+* reverting unintentional breaking change: GetOpenIdConfigRequest, GetOpenIdConfigResponse ([#186](https://github.com/googleapis/python-container/issues/186)) ([f545e29](https://github.com/googleapis/python-container/commit/f545e29dfed1d631237c617ed4db5fcad51ee334))
+
 ### [2.10.1](https://www.github.com/googleapis/python-container/compare/v2.10.0...v2.10.1) (2021-11-01)
 
 
